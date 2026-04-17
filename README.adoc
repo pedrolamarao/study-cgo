@@ -1,0 +1,5 @@
+= study-cgo
+:author: Pedro Lamarão <pedro.unglue658@passinbox.com>
+:icons: font
+
+Estudo sobre interoperabilidade nativa em linguagem Go.
